@@ -1,6 +1,7 @@
 package org.grails.twit
 
 import grails.test.mixin.TestFor
+import org.grails.twitter.Status
 import spock.lang.Specification
 
 /**
