@@ -10,5 +10,6 @@ class Status {
 
     static constraints = {
         message size: 2..141
+
     }
 }
